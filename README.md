@@ -15,7 +15,8 @@ We recommended the following dependencies.
 - h5py==2.9.0
 
 
-###The pipline of ProxyGML
+### The pipline of ProxyGML
+
 <img src="https://github.com/YuehuaZhu/ProxyGML/blob/main/net/pipline.png" width="745" alt="pipline"/> 
 
 ## Datasets
