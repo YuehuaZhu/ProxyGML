@@ -1,2 +1,2 @@
 # ProxyGML
-Official PyTorch Implementation of ProxyGML Loss for Deep Metric Learning, NrurIPS 2020
+Official PyTorch Implementation of ProxyGML Loss for Deep Metric Learning, NeurIPS 2020
