@@ -21,3 +21,12 @@ Official PyTorch Implementation of ProxyGML Loss for Deep Metric Learning, NeurI
    - [CUB-200-2011](http://www.vision.caltech.edu/visipedia-data/CUB-200-2011/CUB_200_2011.tgz)
    - Cars-196 ([Img](http://imagenet.stanford.edu/internal/car196/car_ims.tgz), [Annotation](http://imagenet.stanford.edu/internal/car196/cars_annos.mat))
    - Stanford Online Products ([Link](https://cvgl.stanford.edu/projects/lifted_struct/))
+
+## Training Embedding Network
+
+Note that a fine-grained combination of parameter N and parameter r resulted in better overall performance than that described in the paper.
+
+### CUB-200-2011
+```bash
+python train.py -b 32 --gpu 2 --dataset cub200 --freeze_BN --epochs 50 --dim 512 --r 0.05 -C 100 --N 12 --weight_lambda 0.3 --centerlr 0.03 --rate 0.1 --new_epoch_to_decay 20 40
+```
