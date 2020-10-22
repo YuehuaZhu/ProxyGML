@@ -2,9 +2,6 @@
 Official PyTorch Implementation of ProxyGML Loss for Deep Metric Learning, NeurIPS 2020
 
 # Requirments
-
-## Requirements
-
 - Pillow==5.2.0
 - PyTorch (> 1.0)
 - NumPy
