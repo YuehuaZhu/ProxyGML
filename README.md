@@ -1,7 +1,7 @@
 # ProxyGML
 Official PyTorch Implementation of ProxyGML Loss for Deep Metric Learning, NeurIPS 2020
 
-#Requirments
+# Requirments
 Pillow==5.2.0
 tqdm==4.26.0
 matplotlib==2.2.2
