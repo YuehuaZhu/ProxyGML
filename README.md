@@ -4,9 +4,7 @@ This is "Less is More: A Deep Graph Metric Learning Perspective Using Few Proxie
 # Requirements and Installation
 We recommended the following dependencies.
 
-- PyTorch (> 1.0)
-- NumPy
-- tqdm
+- PyTorch==1.2
 - Pillow==5.2.0
 - tqdm==4.26.0
 - matplotlib==2.2.2
@@ -16,6 +14,9 @@ We recommended the following dependencies.
 - scikit-image==0.14.2
 - h5py==2.9.0
 
+
+The pipline of ProxyGML
+<img src="https://github.com/YuehuaZhu/ProxyGML/blob/main/net/pipline.png" width="745" alt="pipline" /> 
 
 ## Datasets
 
