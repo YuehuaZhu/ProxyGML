@@ -1,7 +1,9 @@
 # ProxyGML
-Official PyTorch Implementation of ProxyGML Loss for Deep Metric Learning, NeurIPS 2020
+This is "Less is More: A Deep Graph Metric Learning Perspective Using Few Proxies", official pyTorch implementation of ProxyGML loss for deep metric learning. The paper is accepted by NeurIPS 2020.
 
-# Requirments
+# Requirements and Installation
+We recommended the following dependencies.
+
 - PyTorch (> 1.0)
 - NumPy
 - tqdm
