@@ -28,8 +28,8 @@ We recommended the following dependencies.
    
    
 ##  Dataset Structures
-2. All datasets are preprocessed as follows  and stored in .\data
-__CUB200-2011 (for eaxample)
+2. All datasets are preprocessed as follows ( take CUB200-2011 for eaxample)  and stored in .\data
+
 ```
 cub200                                         
 └───train
