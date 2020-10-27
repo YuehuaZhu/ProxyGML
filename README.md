@@ -21,10 +21,40 @@ We recommended the following dependencies.
 
 ## Datasets
 
-1. Download four public benchmarks for deep metric learning
+1. Download three public benchmarks for deep metric learning 
    - [CUB-200-2011](http://www.vision.caltech.edu/visipedia-data/CUB-200-2011/CUB_200_2011.tgz)
    - Cars-196 ([Img](http://imagenet.stanford.edu/internal/car196/car_ims.tgz), [Annotation](http://imagenet.stanford.edu/internal/car196/cars_annos.mat))
    - Stanford Online Products ([Link](https://cvgl.stanford.edu/projects/lifted_struct/))
+   
+   
+##  Dataset Structures
+2. All datasets are preprocessed as follows  and stored in .\data
+__CUB200-2011 (for eaxample)
+```
+cub200                                         
+└───train
+|    └───0
+|           │   xxx.jpg
+|           │   ...
+|
+|    ...
+|
+|    └───99
+|           │   xxx.jpg
+|           │   ...
+
+└───test
+|    └───100
+|           │   xxx.jpg
+|           │   ...
+|
+|    ...
+|
+|    └───199
+|           │   xxx.jpg
+|           │   ...
+|    ...
+```
 
 ## Training Embedding Network
 
