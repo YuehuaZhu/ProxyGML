@@ -33,7 +33,7 @@ import time
 
 parser = argparse.ArgumentParser(description='PyTorch Training')
 parser.add_argument('--dataset', default='cars196', type=str, help='Dataset to use.')
-parser.add_argument('--data', default="/home/zqs/simulation/zyh_code_demo/nips2020/ProxyGML/", type=str, help='path to dataset')
+parser.add_argument('--data', default="./data/", type=str, help='path to dataset')
 parser.add_argument('-j', '--workers', default=8, type=int,
                     help='number of data loading workers')
 parser.add_argument('--epochs', default=50, type=int,
