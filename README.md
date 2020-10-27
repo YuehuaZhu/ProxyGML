@@ -26,8 +26,6 @@ We recommended the following dependencies.
    - Cars-196 ([Img](http://imagenet.stanford.edu/internal/car196/car_ims.tgz), [Annotation](http://imagenet.stanford.edu/internal/car196/cars_annos.mat))
    - Stanford Online Products ([Link](https://cvgl.stanford.edu/projects/lifted_struct/))
    
-   
-##  Dataset Structures
 2. All datasets are preprocessed as follows ( take CUB200-2011 for eaxample)  and stored in .\data
 
 ```
