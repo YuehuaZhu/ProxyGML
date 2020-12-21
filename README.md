@@ -1,6 +1,8 @@
 # Introduction
 This is "Fewer is More: A Deep Graph Metric Learning Perspective Using Fewer Proxies", official pytorch implementation of ProxyGML loss for deep metric learning. The paper is accepted by NeurIPS 2020 (spotlight).
 
+Our neurIPS2020 spotlight PPT (SpotlightPPT.pptx) is also uploaded and each page of ppt contains comments. Welcome to share our work in the group meeting!
+
 # Requirements and Installation
 We recommended the following dependencies.
 
