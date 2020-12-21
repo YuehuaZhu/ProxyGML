@@ -2,7 +2,7 @@
 Official pytorch code for the NeurIPS 2020 spotlight paper "[Fewer is More: A Deep Graph Metric Learning Perspective Using Fewer Proxies](https://proceedings.neurips.cc/paper/2020/hash/ce016f59ecc2366a43e1c96a4774d167-Abstract.html)". In this paper, we propose a novel graph-based deep metric learning loss, namely [ProxyGML](https://github.com/YuehuaZhu/ProxyGML/blob/main/loss/ProxyGML.py), which is simple to implement.
 
 
-Slides of our NeurIPS 2020 spotlight talk are avialable [here](https://github.com/YuehuaZhu/ProxyGML/blob/main/SpotlightPPT.pptx) and each page of ppt contains comments and welcome to share our work in your group meeting!
+Slides of our NeurIPS 2020 spotlight talk are avialable [here](https://github.com/YuehuaZhu/ProxyGML/blob/main/SpotlightPPT.pptx) and each page of ppt contains comments. Our [poster](https://github.com/YuehuaZhu/ProxyGML/blob/main/poster.pdf) file are also avialable. Welcome to share our work in your group meeting!
 
 # Requirements and Installation
 We recommended the following dependencies.
