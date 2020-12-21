@@ -27,7 +27,7 @@ We recommend the following dependencies.
    - Cars-196 ([Img](http://imagenet.stanford.edu/internal/car196/car_ims.tgz), [Annotation](http://imagenet.stanford.edu/internal/car196/cars_annos.mat))
    - Stanford Online Products ([Link](https://cvgl.stanford.edu/projects/lifted_struct/))
    
-2. All datasets are preprocessed as follows ( take CUB200-2011 for example)  and stored in .\data
+2. We train our model in the paradigm of classification. So all datasets are preprocessed into training/testing parts as follows ( take CUB200-2011 for example)  and stored in .\data
 
 ```
 cub200                                         
