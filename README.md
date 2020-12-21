@@ -57,7 +57,7 @@ cub200
 
 ## Getting Started
 
-Note that a fine-grained combination of parameter $N$ and parameter r resultes in better overall performance than that described in the paper.
+Note that a fine-grained combination of parameter $N$ and parameter $r$ resultes in better overall performance than that described in the paper.
 
 ### CUB-200-2011
 ```bash
