@@ -1,5 +1,6 @@
-# ProxyGML: A Simple but Powerful Metric Learning Strategy
+# ProxyGML: A Simple yet Powerful Metric Learning Strategy
 Official PyTorch code for the NeurIPS 2020 spotlight paper "[Fewer is More: A Deep Graph Metric Learning Perspective Using Fewer Proxies](https://proceedings.neurips.cc/paper/2020/hash/ce016f59ecc2366a43e1c96a4774d167-Abstract.html)". In this paper, we propose a novel graph-based deep metric learning loss, namely [ProxyGML](https://github.com/YuehuaZhu/ProxyGML/blob/main/loss/ProxyGML.py), which is simple to implement. The pipeline of ProxyGML is as shown below.
+
 <img src="https://github.com/YuehuaZhu/ProxyGML/blob/main/net/pipline.png" width="745" alt="pipline"/> 
 
 ## Slides
