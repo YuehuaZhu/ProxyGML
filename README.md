@@ -5,7 +5,7 @@ Official PyTorch code for the NeurIPS 2020 spotlight paper "[Fewer is More: A De
 
 ## Slides
 
-Slides of our NeurIPS 2020 spotlight talk are available [here](https://github.com/YuehuaZhu/ProxyGML/blob/main/SpotlightPPT.pptx). Each page of the slides contains comments, which we assume can be of help to better understand our work. Our poster is also available [here](https://github.com/YuehuaZhu/ProxyGML/blob/main/poster.pdf). Feel free to use our slides if you want to share our work in your group meeting or introduce it to your friends!
+Slides of our NeurIPS 2020 spotlight talk are available [here](https://github.com/YuehuaZhu/ProxyGML/blob/main/SpotlightPPT.pptx). Each page of the slides contains comments, which we assume can be of help to better understand our work. Our poster is also available [here](https://github.com/YuehuaZhu/ProxyGML/blob/main/poster.pdf) and the poster presentation is [here](https://nips.cc/virtual/2020/protected/poster_ce016f59ecc2366a43e1c96a4774d167.html). Feel free to use our slides if you want to share our work in your group meeting or introduce it to your friends!
 
 ## Installation
 We recommend the following dependencies.
