@@ -3,7 +3,7 @@ Official PyTorch code for the NeurIPS 2020 spotlight paper "[Fewer is More: A De
 
 <img src="https://github.com/YuehuaZhu/ProxyGML/blob/main/net/pipline.png" width="745" alt="pipline"/> 
 
-## Slides/Poster/Video
+## Slides&Poster&Video
 
 [Slides](https://github.com/YuehuaZhu/ProxyGML/blob/main/SpotlightPPT.pptx) and [poster](https://github.com/YuehuaZhu/ProxyGML/blob/main/poster.pdf) of our NeurIPS 2020 10-min spotlight talk are available. Each page of the slides contains comments, which we assume can be of help to better understand our work. Our [3-min poster video presentation](https://nips.cc/virtual/2020/protected/poster_ce016f59ecc2366a43e1c96a4774d167.html) is also available. Feel free to use our slides if you want to share our work in your group meeting or introduce it to your friends!
 
